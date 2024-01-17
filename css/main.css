@@ -452,7 +452,7 @@ footer {
 }
 .register .register-wrapper {
   margin: auto;
-  max-width: 400px;
+  max-width: 500px;
   padding-top: 100px;
   padding-bottom: 250px;
 }
@@ -475,12 +475,12 @@ footer {
 .register .register-wrapper .reg-form {
   background-color: #fff;
   padding: 40px 20px;
-  height: 480px;
+  height: 530px;
   border-radius: 0 0 5px 5px;
 }
 .register .register-wrapper .reg-form input {
   width: 100%;
-  padding: 10px;
+  padding: 15px;
   border: none;
   background-color: #f6f6f6;
   margin-bottom: 20px;
@@ -515,7 +515,7 @@ footer {
 }
 .login .login-wrapper {
   margin: auto;
-  max-width: 400px;
+  max-width: 500px;
   padding-top: 150px;
 }
 .login .login-wrapper .form-heading {
@@ -542,7 +542,7 @@ footer {
 }
 .login .login-wrapper .reg-form input {
   width: 100%;
-  padding: 10px;
+  padding: 15px;
   border: none;
   background-color: #f6f6f6;
   margin-bottom: 20px;
