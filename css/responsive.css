@@ -77,4 +77,25 @@
     text-align: center;
     padding-top: 80px;
   }
+  .checkout .wrapper form {
+    padding: 20px;
+  }
+  .checkout .wrapper {
+    padding: 80px 10px;
+  }
+  .checkout .wrapper .form {
+    margin-bottom: 50px;
+  }
+  .checkout .wrapper .product-summary .title {
+    padding: 10px;
+  }
+  .checkout .wrapper .product-summary .title h2 {
+    font-size: 20px;
+  }
+  .checkout .wrapper .product-summary .sub-total h3 {
+    font-size: 13px;
+  }
+  .checkout .wrapper .product-summary .sub-total span {
+    font-size: 13px;
+  }
 }
