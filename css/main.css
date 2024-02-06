@@ -504,6 +504,24 @@ footer {
   font-size: 10px;
 }
 
+header .top-bar {
+  padding: 0;
+}
+
+.nav-img img {
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.navbar-brand img {
+  margin-left: 5px;
+}
+
+header .top-bar .inner-row {
+  gap: 0;
+}
+
 .login {
   background-position: center center;
   background-size: cover;
